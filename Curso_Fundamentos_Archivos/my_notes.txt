@@ -1,0 +1,3 @@
+Linea 1: Nota personal sobre el curso de Fundamentos.
+Linea 2: Practicar lectura y escritura de archivos en Java.
+Linea 3: Revisar excepciones y cerrar recursos correctamente.
